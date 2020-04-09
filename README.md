@@ -1,2 +1,2 @@
 # ClassicReadingHelper
-ClassicReadingHelper
+ClassicReadingHelper for Tampermonkey
