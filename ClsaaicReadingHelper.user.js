@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
-// @author       You
+// @author       Jaincen
 // @match        *://ibook.cslg.edu.cn/*
 // @require      https://code.jquery.com/jquery-3.2.1.min.js
 // @grant        none
